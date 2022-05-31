@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Louisvdloon
 - 👀 I’m interested in: programming games, websites, applications
-- 🌱 I’m currently learning: python, C#
+- 🌱 I’m currently learning: python, C++
 - 📫 Contacts: Discord: Luigii#1194
 
 <!---
