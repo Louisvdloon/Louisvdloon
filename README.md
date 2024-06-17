@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Louisvdloon
-- 👀 I’m interested in: programming games, websites, applications
-- 🌱 I’m currently learning: python, C++
-- 📫 Contacts: Discord: Luigii#1194
+- 👀 I’m interested in: programming games, websites, applications and reverse engineering
+- 🌱 I’m currently learning: python, Web development
+- 📫 Contacts: Discord: luigii1194
 
 <!---
 Louisvdloon/Louisvdloon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
