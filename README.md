@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Louisvdloon
-- 👀 I’m interested in: programming games, websites, applications and reverse engineering
+- 👀 Passionate about game development, Android, C++, Kotlin and reverse engineering.
 - 🌱 I’m currently learning
 - 📫 Contacts: Discord: luigii1194
 
