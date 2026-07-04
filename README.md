@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Louisvdloon
 - 👀 I’m interested in: programming games, websites, applications and reverse engineering
-- 🌱 I’m currently learning: python, Web development
+- 🌱 I’m currently learning
 - 📫 Contacts: Discord: luigii1194
 
 <!---
